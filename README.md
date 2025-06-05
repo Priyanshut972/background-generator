@@ -2,6 +2,10 @@
 
 A gradient background generator with real-time preview and CSS code output.
 
+# Video Tutorial of the Project:
+
+https://github.com/user-attachments/assets/6c01f568-dbc8-447c-94ae-bc8626f7fd15
+
 # Features
 
 Color picker for both gradient colors
